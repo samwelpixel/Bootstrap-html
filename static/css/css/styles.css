@@ -1,0 +1,4 @@
+.carousel-item img {
+  height: 500px;        /* You can change this value (e.g. 400px, 600px, etc.) */
+  object-fit: cover;    /* Makes the image fill the area without stretching */
+}
